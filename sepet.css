@@ -1,0 +1,27 @@
+.navbar{
+    color:yellow;
+   
+}
+ .container a{
+    color:yellow;
+    
+ }
+ .form-control{
+    background-color:yellow;
+    border: 3px solid greenyellow;
+    color: black;
+
+ }
+.jumbotron{
+    background:rgb(226, 228, 229)
+   
+}
+.container td-img{
+    width:50px;
+    height:50px;
+}
+#footer{
+   background:black;
+   color:yellow;
+   display: flex;
+}
